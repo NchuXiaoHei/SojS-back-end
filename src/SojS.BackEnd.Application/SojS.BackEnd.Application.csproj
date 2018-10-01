@@ -11,6 +11,7 @@
     <RootNamespace>SojS.BackEnd</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\SojS.BackEnd.Compile\SojS.BackEnd.Compile.csproj" />
     <ProjectReference Include="..\SojS.BackEnd.Core\SojS.BackEnd.Core.csproj" />
   </ItemGroup>
 </Project>
